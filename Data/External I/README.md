@@ -1,0 +1,3 @@
+# External I
+
+This dataset set combines specific newly added COVID-19 images from the Cohen etal. [**covid-chestxray** dataset](https://github.com/ieee8023/covid-chestxray-dataset) and *no finding* and *pneumonia* images from the [**BRAX** dataset](https://physionet.org/content/brax/1.1.0/). BRAX access requires users to create a Physionet account and to complete the data specimens training. As such, we are unable to share the images directly. Instead, we share a csv below which contains the anonymised image names of images used in our study. This includes image names of the COVID samples, which should allow you to filter images to reproduce our test set.
